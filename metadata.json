@@ -1,0 +1,7 @@
+{
+  "name": "UsWorld Social",
+  "description": "Connect. Share. Inspire. A modern social media platform featuring dynamic feeds, 24h stories, reels, live streams with virtual gifts, messaging, voice/video calls, marketplace, creator monetization, and communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
